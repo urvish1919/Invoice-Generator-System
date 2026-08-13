@@ -1,5 +1,7 @@
 # Invoice Generator System 🧾
 
+**🔗 Live Demo:** [invoice-generator-system.streamlit.app](https://invoice-generator-system.streamlit.app)
+
 A simple, self-contained web app for creating and managing invoices, built with **Streamlit** and **ReportLab**. Users can sign up, log in, generate professional PDF invoices with automatic GST calculation, and view their invoice history — all from a clean browser-based interface.
 
 ## Features
